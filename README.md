@@ -37,3 +37,34 @@ Sigue estos pasos una vez tengas el archivo descargado:
 * Marca la casilla **"Iniciar FastPacker ahora"** y pulsa **Terminar**.
 
 ![Gemini_Generated_Image_l2m831l2m831l2m8.png](Gemini_Generated_Image_l2m831l2m831l2m8.png)
+
+---
+
+# ⚡ DOCUMENTO 2: Guía Rápida de Uso — Primeros pasos con FastPacker
+
+## ¿Qué puedes hacer con FastPacker?
+Esta herramienta te permite reducir el tamaño de tus archivos para enviarlos por correo y abrir documentos comprimidos que recibas.
+
+* ✅ **Comprimir:** Crea archivos `.ZIP` o `.TAR`
+* ✅ **Descomprimir:** Abre archivos `.ZIP`, `.RAR`, `.7Z` y muchos más.
+
+## 1. Cómo Comprimir archivos (Crear un paquete)
+1.  Abre **FastPacker** desde el icono de tu escritorio.
+2.  Pulsa el botón grande azul **"Nuevo Paquete"**.
+3.  Se abrirá una ventana: selecciona los documentos o fotos que quieras guardar.
+4.  Dale un nombre a tu archivo y pulsa **"Guardar"**. ¡Listo!
+
+## 2. Cómo Descomprimir un archivo
+1.  Dentro de FastPacker, pulsa el botón **"Abrir Archivo"**.
+2.  Busca el archivo comprimido que has descargado o recibido.
+3.  Verás el contenido dentro. Pulsa el botón **"Extraer todo en..."** y elige dónde quieres guardarlo.
+    
+
+---
+
+### 💡 Consejo rápido:
+No hace falta que abras el programa siempre.
+Si haces **clic derecho** sobre cualquier archivo en tu ordenador, verás una opción llamada **"Comprimir con FastPacker"**. ¡Es mucho más rápido!
+
+## Autor
+- Santiago Lafuente Hernandez
