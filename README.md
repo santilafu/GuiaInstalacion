@@ -24,7 +24,7 @@ Sigue estos pasos una vez tengas el archivo descargado:
 1. **Ejecutar:** Haz doble clic sobre el archivo `FastPacker_Setup.exe`.
 2. **Bienvenida:** Se abrirá el asistente. Pulsa el botón **"Siguiente"** para comenzar.
 
-   ![Imagen Bienvenida](Gemini_Generated_Image_p2s7xyp2s7xyp2s7(1).png)
+   ![Gemini_Generated_Image_p2s7xyp2s7xyp2s7 (1).png](Gemini_Generated_Image_p2s7xyp2s7xyp2s7%20%281%29.png)
 
 3. **Licencia:** Lee brevemente y marca la casilla *"Acepto los términos de licencia"*. Pulsa **"Siguiente"**.
 4. **Ubicación:** El sistema te propondrá instalarlo en `C:\Archivos de Programa\FastPacker`. Te recomendamos no cambiarlo. Pulsa **"Siguiente"**.
@@ -35,3 +35,5 @@ Sigue estos pasos una vez tengas el archivo descargado:
 ## 5. Verificación final
 * Al terminar la carga, verás una pantalla de *"Instalación Completada"*.
 * Marca la casilla **"Iniciar FastPacker ahora"** y pulsa **Terminar**.
+
+![Gemini_Generated_Image_l2m831l2m831l2m8.png](Gemini_Generated_Image_l2m831l2m831l2m8.png)
